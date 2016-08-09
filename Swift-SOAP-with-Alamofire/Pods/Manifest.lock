@@ -1,0 +1,21 @@
+PODS:
+  - AEXML (3.0.0)
+  - Alamofire (3.4.1)
+  - StringExtensionHTML (0.1.3)
+  - SWXMLHash (2.4.0)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire
+  - StringExtensionHTML
+  - SWXMLHash
+
+SPEC CHECKSUMS:
+  AEXML: 716fb0a8decba4a3517324a71fee3685b30233d2
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  StringExtensionHTML: a56bc49c4f11e7a3893b68aff7f7786eaa11d345
+  SWXMLHash: 507397103325f140863d09040c04ae14a49a16cb
+
+PODFILE CHECKSUM: db3406285fff89b9c8b0b4681f3bb3db050de75c
+
+COCOAPODS: 1.0.1
